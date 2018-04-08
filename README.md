@@ -32,6 +32,10 @@ Simpley run the app and record your voice with one click and boom...
 Kartik Patel – [@kartikpatel1910](https://twitter.com/KartikPatel1910) – patelkartik1910@gmail.com
 [https://github.com/KartikPatelOfficial](https://github.com/KartikPatelOfficial)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 ## Contributing
 
 1. Fork it (<https://github.com/KartikPatelOfficial/PitchPerfect/fork>)
